@@ -1,2 +1,2 @@
-# egaar..github.io
+# egaar.github.io
 Demo page
